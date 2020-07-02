@@ -1,0 +1,2 @@
+# Breast-Cancer-Wisconsin-Prognostic-Data-Set-For-Metastasis
+Each record represents follow-up data for one breast cancer case. These are consecutive patients seen by Dr. Wolberg since 1984, and include only those cases exhibiting invasive breast cancer and no evidence of distant metastases at the time of diagnosis. Prognosis is predicted using supervised learning algorithms that do not require underlying training written in Python in Google Colab
